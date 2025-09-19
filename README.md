@@ -30,3 +30,5 @@ USART:PA9
 Current issue: The MPU6050's response to attitude angle detection is not fast enough, the selection of kp, ki, kd values in the control code is not detailed enough, and it cannot automatically detect orientation after power on, requiring reprogramming.
 
 if you have any advice, please send me email,thank you very much!
+
+Declaration: This code structure is inspired by some Open source projects
